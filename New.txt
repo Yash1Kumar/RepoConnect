@@ -1,1 +1,3 @@
 This is new local file
+It is new remote file
+
